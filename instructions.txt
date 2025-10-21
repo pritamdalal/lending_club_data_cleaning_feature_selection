@@ -1,0 +1,3 @@
+Date: 10/21/2025
+
+When packaging this up for students, zip up the /data_reduced directory alon with the 01_data_cleaning_feature_selection_assignment.ipynb.
